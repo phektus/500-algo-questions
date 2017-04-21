@@ -1,0 +1,1 @@
+Exercise: Print all pairs in the array having given sum
